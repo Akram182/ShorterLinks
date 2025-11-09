@@ -10,6 +10,7 @@ namespace ShorterLinks.Server.Controllers
     [ApiController]
     [Route("api/[controller]")]
     [Authorize]
+    
     public class LinksController : ControllerBase
     {
         private readonly ILinkService _linkService;

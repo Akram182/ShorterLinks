@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\C#\\Asp.net\\ShorterLinks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|c:\\programming\\c#\\asp.net\\shorterlinks\\shorterlinks.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\Asp.net\\ShorterLinks\\ShorterLinks.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Program.cs",
+              "ToolTip": "C:\\Programming\\C#\\Asp.net\\ShorterLinks\\ShorterLinks.Server\\Program.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:47:24.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

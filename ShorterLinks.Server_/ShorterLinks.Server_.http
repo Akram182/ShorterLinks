@@ -4,3 +4,5 @@ GET {{ShorterLinks.Server__HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+http://localhost:5186/api/Auth/register

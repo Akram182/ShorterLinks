@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:52102",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\Студент\\Desktop\\Vladislav\\P22\\ShorterLinks.Server\\..\\shorterlinks.client",
+"WorkingDirectory": "C:\\Programming\\C#\\Asp.net\\ShorterLinks\\ShorterLinks.Server\\..\\shorterlinks.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
