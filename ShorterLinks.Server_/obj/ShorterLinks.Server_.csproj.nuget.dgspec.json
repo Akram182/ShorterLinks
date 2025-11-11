@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\C#\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj": {}
+    "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\C#\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj": {
+    "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\C#\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj",
+        "projectUniqueName": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj",
         "projectName": "ShorterLinks.Server_",
-        "projectPath": "C:\\Programming\\C#\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj",
+        "projectPath": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj",
         "packagesPath": "C:\\Users\\YodgarovInc\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\C#\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\obj\\",
+        "outputPath": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

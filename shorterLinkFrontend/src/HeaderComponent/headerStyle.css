@@ -1,0 +1,43 @@
+.headerConatainer {
+
+    height: 90px;
+    background-color: #1b1f3b;
+    width: 100%;
+}
+
+.headerConatainer nav {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding: 10px;
+}
+
+
+.headerConatainer img {
+    height: 40px;
+    margin-left: 5px;
+}
+
+.headerConatainer h1 {
+    margin-left: 15px;
+}
+
+.headerConatainer button {
+    border: none;
+    border-radius: 15px;
+    padding: 10px 20px;
+    background-color: #8d8f9d;
+    font-size: 1.1em;
+    color: white;
+
+
+}
+
+#signUp {
+    margin-left: 65%;
+}
+
+#signIn {
+
+    margin-left: 15px;
+}
