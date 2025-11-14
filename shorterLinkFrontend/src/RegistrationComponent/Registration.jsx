@@ -1,6 +1,8 @@
 import { useState } from "react"
 import axios from "axios"
-import logo from "../assets/headerLogo.png"
+
+
+// import logo from "../assets/headerLogo.png"
 import "./registrationStyle.css"
 
 
@@ -51,16 +53,15 @@ function Registration(props) {
 
     return (
         <div className="registrationForm">
-            <img src={logo} alt="Logog" />
-            <h1>Добро пожаловать!</h1>
-            <p>Зарегистрируйтесь и воспользуйтесь всеми возможностями нашего сервиса</p>
+            <h1>Welcome!</h1>
+            <p>Register and take advantage of all the features of our service</p>
 
 
             <form method="post">
                 <input onChange={handleUserNameInput} id="usernameInput" type="text" placeholder="Username" value={username} /><br />
                 <input onChange={handleEmailInput} id="emailInput" type="email" placeholder="Email" value={email} /><br />
                 <input onChange={handlePasswordInput} id="passwordInput" type="password" placeholder="Password" required value={password} /><br />
-                <input onClick={handleRegister} id="submitInput" type="submit" value="Зарегистрироваться" />
+                <input onClick={handleRegister} id="submitInput" type="submit" value="Register" />
             </form>
 
         </div>

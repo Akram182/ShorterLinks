@@ -1,6 +1,6 @@
 import Header from "./HeaderComponent/Header"
 import Body from "./BodyComponent/Body"
-import Registration from "./RegistrationComponent/Registration"
+import Registration from "./RegistrationComponent/Registration.jsx"
 import Login from "./LoginComponent/Login"
 
 import { useState } from "react"
@@ -15,13 +15,17 @@ function App() {
         <>
             {(!isLogined && isRegistered) && <Login registerFormVisibility={setRegist} logined={setLogin} tokenVal={setToken}></Login>}
 
-            
-            {!isRegistered && <Registration  registred={setRegist} />}
-            
+
+            {!isRegistered && <Registration registred={setRegist} />}
+
             {isLogined && <Header></Header>}
-            {isLogined && <Body tokenVal = {token}></Body>}
-            {/* <Header></Header>
-            <Body></Body> */}
+            {isLogined && <Body tokenVal={token}></Body>}
+
+            {/* <Login registerFormVisibility={setRegist} logined={setLogin} tokenVal={setToken}></Login> */}
+
+
+            {/* <Header></Header>    
+                    <Body></Body> */}
         </>)
 }
 

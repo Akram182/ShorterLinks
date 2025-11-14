@@ -1,7 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 import "./LoginStyle.css"
-import logo from "../assets/headerLogo.png"
+// import logo from "../assets/headerLogo.png"
 
 
 function Login(props) {
@@ -44,15 +44,14 @@ function Login(props) {
     }
     return (
         < div className="registrationForm" >
-            <img src={logo} alt="Logo" />
-            <h1>С возвращением!</h1>
-            <p>Авторизуйтесь, чтобы получить все возможности сервиса</p>
+            <h1>Welcome back!</h1>
+            <p>Log in to get all the features of the service.</p>
 
             <form >
                 <input onChange={handleEmailInput} id="emailInput" type="email" placeholder="Email" value={email} /><br />
                 <input onChange={handlePasswordInput} id="passwordInput" type="password" placeholder="Password" required value={password} /><br />
                 <input onClick={handleLogin} id="submitInput" type="submit" value="Войти" />
-                <button onClick={handleRegistration}>Зарегистрироваться</button>
+                <button onClick={handleRegistration}id="loginBtn">Зарегистрироваться</button>
             </form>
         </div >
     )

@@ -3,78 +3,116 @@ body {
 }
 
 .bodyContainer {
-    margin-top: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    margin-top: 150px;
 }
 
-.bodyContainer input {
-    color: #b8bfc5;
-    border: 3px solid #dee2e6;
-    border-radius: 15px;
-    font-size: larger;
-    width: 500px;
-    height: 65px;
+.bodyContainer h1 {
+    background-image: linear-gradient(to right, #144EE3, #EB568E, #A353AA, #144EE3);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
 
+
+    font-size: 3em;
 }
 
-.bodyContainer button {
+.linkInputContainer {
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
 
-    background-color: #ff8e88;
-    color: black;
-    margin-left: 10px;
-    padding: 28px 30px;
+    height: 300px; */
+
+    display: flex;
+    margin-top: 50px;
+}
+
+
+
+
+.linkInputContainer input {
+    width: 400px;
+    height: 45px;
+
+    flex-grow: 1;
+    border-radius: 35px;
+    border: 2px solid #323e5a;
+    background-color: #181e29;
+
+    color: #c9ced6;
+    padding: 5px 15px;
+    outline: none;
+}
+
+.linkInputContainer button {
+    background: #144EE3;
+    box-shadow: 4px 7px 16px 5px rgba(20, 78, 227, 0.45);
     border: none;
-    border-radius: 15px;
+    border-radius: 35px;
+    padding: 5px 45px;
 
+    color: white;
+    font-weight: bold;
+    margin-left: 5px;
+
+    cursor: pointer;
 }
 
-.bodyContainer button:hover {
-
-    background-color: hsl(3, 100%, 65%);
-    color: black;
-    margin-left: 10px;
-    padding: 28px 30px;
-    border: none;
-    border-radius: 15px;
-}
-
-
-.linksContainer {
+.linksCardContainer {
     display: flex;
     justify-content: center;
     align-items: center;
-
     flex-direction: column;
-
 }
+
+.linksStats {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 63px;
+
+    width: 80dvw;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    border-radius: 10px 10px 0px 0px;
+
+    color: white;
+    background-color: #181e29;
+}
+
 
 .linkCard {
     display: flex;
+    justify-content: space-around;
     align-items: center;
-    justify-content: start;
-    background-color: white;
-    margin-top: 50px;
-    border-radius: 15px;
-    width: 800px;
-    height: 150px;
-}
+    height: 63px;
 
-.linkCard button {
-    border: 2px solid #e4e7ef;
-    border-radius: 15px;
-    padding: 13px 20px;
-    margin-left: 15px;
-}
-.linkCard button:hover {
-     border: 2px solid  #8bdf91;
-    background-color: #8bdf91;
-    cursor:  pointer;
+    width: 80dvw;
+    margin-top: 3px;
+    margin-bottom: 5px;
+
+
+    color: white;
+    background-color: #0e131e;
+    /* включить если добавлю background */
+    /* backdrop-filter: blur(10px); */
 }
 
 .linkCard a {
-    margin-left: 50px;
+    font-size: 0.7em;
+    color: #c9ced6;
+}
+
+.linkCard img {
+    height: 35px;
+    width: 35px;
 }
 
 #qrCode {
-    height: 80px;
-    margin-left: 160px;
+    height: 40px;
 }

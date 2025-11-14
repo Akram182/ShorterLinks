@@ -1,18 +1,13 @@
-import logo from "../assets/headerLogo.png";
-import "./headerStyle.css"
+import "../HeaderComponent/headerStyle.css"
+import loginLogo from "../assets/loginIcon.png"
+
 function Header() {
 
     return (
         <div className="headerConatainer">
-            <nav>
-                <img src={logo} alt="Logo" />
-                <h1>LinkShorter</h1>
-                <button id="signUp">Зарегистрироваться</button>
-                <button id="signIn">Войти</button>
-                {/*TODO: При входе заменить на фото */}
-                {/* <img src="" alt="AvatarPlaceholder" /> */}
-            </nav>
-
+            <h1>Linkly</h1>
+            <button id="Login">Login <img src={loginLogo} alt="loginIcon" /> </button>
+            <button id="signUp">Regiseter now</button>
         </div>
     )
 

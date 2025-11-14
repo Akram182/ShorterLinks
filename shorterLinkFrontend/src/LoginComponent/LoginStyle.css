@@ -1,0 +1,93 @@
+.registrationForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.registrationForm h1 {
+    background-image: linear-gradient(to right, #1486e3, #eb41dd, #aa4cc2, #145ce3);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: white;
+    font-weight: bold;
+    font-size: 4em;
+    margin-top: 250px;
+
+}
+
+.registrationForm p {
+    color: #c9ced6;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 5px;
+
+}
+
+
+
+
+.registrationForm input {
+    width: 300px;
+    height: 40px;
+
+    border-radius: 35px;
+    border: 2px solid #323e5a;
+    background-color: #181e29;
+
+    color: #c9ced6;
+    padding: 5px 15px;
+    outline: none;
+
+    margin-top: 15px;
+}
+
+#submitInput {
+    font-weight: bold;
+    font-size: 1.2em;
+    background-image: linear-gradient(to right, rgb(101, 177, 253), #0059ff);
+
+    background-color: #1433e3;
+    border: none;
+    color: white;
+    box-shadow: 4px 7px 16px 5px rgba(20, 144, 227, 0.45);
+
+    transition: all 0.3s ease;
+}
+
+#loginBtn {
+    width: 300px;
+    height: 40px;
+
+    border-radius: 35px;
+    border: 2px solid #323e5a;
+    background-color: #181e29;
+
+    color: #c9ced6;
+    padding: 5px 15px;
+    outline: none;
+
+    margin-top: 15px;
+    margin-left: 10px;
+
+    font-weight: bold;
+    font-size: 1.2em;
+    background-color: #14e330;
+    border: none;
+    color: white;
+    box-shadow: 4px 7px 16px 5px rgba(20, 227, 30, 0.45);
+
+    transition: all 0.3s ease;
+}
+
+#loginBtn:hover {
+    background-color: #b92982;
+    font-size: 1.3em;
+    box-shadow: 2px 3px 13px 12px rgba(227, 20, 217, 0.45);
+}
+
+#submitInput:hover {
+    background-color: #2980b9;
+   font-size: 1.3em;
+    box-shadow: 2px 3px 13px 12px rgba(20, 92, 227, 0.45);
+}

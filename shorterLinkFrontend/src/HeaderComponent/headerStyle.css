@@ -1,43 +1,63 @@
 .headerConatainer {
-
-    height: 90px;
-    background-color: #1b1f3b;
-    width: 100%;
-}
-
-.headerConatainer nav {
-    display: flex;
+    display: grid;
     align-items: center;
-    justify-content: start;
-    padding: 10px;
-}
-
-
-.headerConatainer img {
-    height: 40px;
-    margin-left: 5px;
+    justify-items: start;
+    grid-template-columns: 76% 10% 20%;
+    grid-template-rows: 100%;
+    grid-template-areas: "name login signUp";
+    height: 70px;
+    margin-top: 15px;
 }
 
 .headerConatainer h1 {
-    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-left: 70px;
+    grid-area: name;
+    width: 95px;
+    background-image: linear-gradient(to right, #EB568E, #144EE3);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    font-weight: bold;
+
 }
 
-.headerConatainer button {
-    border: none;
-    border-radius: 15px;
-    padding: 10px 20px;
-    background-color: #8d8f9d;
-    font-size: 1.1em;
-    color: white;
-
-
-}
 
 #signUp {
-    margin-left: 65%;
+    margin: 10px;
+    grid-area: signUp;
+
+    margin: 0;
+    width: 178px;
+    height: 60px;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: #144EE3;
+    border: 2px solid #144EE3;
+    box-shadow: 4px 7px 16px 5px rgba(20, 78, 227, 0.45);
 }
 
-#signIn {
+#Login img {
+    height: 15px;
+    margin-left: 10px;
+}
 
-    margin-left: 15px;
+#Login {
+    grid-area: login;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 123px;
+    height: 60px;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: #181E29;
+    border: 2px solid #353C4A;
+
+
 }
