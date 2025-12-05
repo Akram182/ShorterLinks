@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\dtos\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\dtos\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\dtos\\createlinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\dtos\\createlinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\dtos\\linkstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\dtos\\linkstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\repositories\\models\\shortlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\repositories\\models\\shortlink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\dtos\\shortlinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\dtos\\shortlinkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\services\\ilinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\services\\ilinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4533A122-F1C1-3954-C2A2-2FACD80D9AB6}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|e:\\system\\desktop\\~p22~\\shorterlinks\\shorterlinks.server\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8884225A-4189-43D0-9030-DCDE69B3C7B4}|ShorterLinks.Server\\ShorterLinks.Server.csproj|solutionrelative:shorterlinks.server\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,60 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ShorterLinks.Server\\Repositories\\Models\\User.cs",
-              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\Models\\User.cs",
-              "RelativeToolTip": "ShorterLinks.Server\\Repositories\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:26:36.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShortLink.cs",
-              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\Models\\ShortLink.cs",
-              "RelativeDocumentMoniker": "ShorterLinks.Server\\Repositories\\Models\\ShortLink.cs",
-              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\Models\\ShortLink.cs",
-              "RelativeToolTip": "ShorterLinks.Server\\Repositories\\Models\\ShortLink.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:26:30.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ShorterLinks.Server\\Repositories\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Repositories\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ShorterLinks.Server\\Repositories\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:21:15.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Program.cs",
-              "RelativeDocumentMoniker": "ShorterLinks.Server\\Program.cs",
-              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Program.cs",
-              "RelativeToolTip": "ShorterLinks.Server\\Program.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:37:13.37Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
@@ -131,81 +95,173 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthResultDto.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\AuthResultDto.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\DTOs\\AuthResultDto.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\AuthResultDto.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\DTOs\\AuthResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:56:16.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateLinkDto.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\CreateLinkDto.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\DTOs\\CreateLinkDto.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\CreateLinkDto.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\DTOs\\CreateLinkDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:56:13.974Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\appsettings.json",
-              "RelativeDocumentMoniker": "ShorterLinks.Server\\appsettings.json",
-              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\appsettings.json",
-              "RelativeToolTip": "ShorterLinks.Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-31T17:37:17.01Z",
-              "EditorCaption": ""
+              "Title": "LinkStatsDto.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\LinkStatsDto.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\DTOs\\LinkStatsDto.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\LinkStatsDto.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\DTOs\\LinkStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:56:12.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\DTOs\\LoginDto.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:56:09.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\DTOs\\RegisterDto.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:56:08.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShortLinkDto.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\ShortLinkDto.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\DTOs\\ShortLinkDto.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\ShortLinkDto.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\DTOs\\ShortLinkDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:56:05.699Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RedirectController.cs",
-              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Controllers\\RedirectController.cs",
-              "RelativeDocumentMoniker": "ShorterLinks.Server\\Controllers\\RedirectController.cs",
-              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Controllers\\RedirectController.cs",
-              "RelativeToolTip": "ShorterLinks.Server\\Controllers\\RedirectController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\DTOs\\UserDto.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:20:59.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T16:55:59.14Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ILinkService.cs",
-              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Services\\ILinkService.cs",
-              "RelativeDocumentMoniker": "ShorterLinks.Server\\Services\\ILinkService.cs",
-              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Services\\ILinkService.cs",
-              "RelativeToolTip": "ShorterLinks.Server\\Services\\ILinkService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:13:15.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "LinksController.cs",
               "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Controllers\\LinksController.cs",
               "RelativeDocumentMoniker": "ShorterLinks.Server\\Controllers\\LinksController.cs",
               "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Controllers\\LinksController.cs",
               "RelativeToolTip": "ShorterLinks.Server\\Controllers\\LinksController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAQwDIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:01:19.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T16:54:40.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LinkService.cs",
-              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Services\\LinkService.cs",
-              "RelativeDocumentMoniker": "ShorterLinks.Server\\Services\\LinkService.cs",
-              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Services\\LinkService.cs",
-              "RelativeToolTip": "ShorterLinks.Server\\Services\\LinkService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:01:12.577Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 252,
-          "SelectedChildIndex": -1,
-          "Children": [
+              "WhenOpened": "2025-11-11T16:48:04.13Z"
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\appsettings.json",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\appsettings.json",
+              "RelativeToolTip": "ShorterLinks.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T16:44:03.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\appsettings.Development.json",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\appsettings.Development.json",
+              "RelativeToolTip": "ShorterLinks.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T16:39:39.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Services\\AuthService.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Services\\AuthService.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Services\\AuthService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:32:18.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ShorterLinks.Server\\Program.cs",
+              "ToolTip": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server\\Program.cs",
+              "RelativeToolTip": "ShorterLinks.Server\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAE0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:21:48.747Z"
             }
           ]
         }

@@ -1,5 +1,7 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
@@ -9,13 +11,21 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ShorterLinks.Server_
 build_property.RootNamespace = ShorterLinks.Server_
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Programming\Csharp\Asp.net\ShorterLinks\ShorterLinks.Server_\
+=======
+build_property.ProjectDir = E:\system\Desktop\~P22~\ShorterLinks\ShorterLinks.Server_\
+>>>>>>> 91981b3af65b691e761491e617536e50b559050a
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Programming\Csharp\Asp.net\ShorterLinks\ShorterLinks.Server_
+=======
+build_property.MSBuildProjectDirectory = E:\system\Desktop\~P22~\ShorterLinks\ShorterLinks.Server_
+>>>>>>> 91981b3af65b691e761491e617536e50b559050a
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 

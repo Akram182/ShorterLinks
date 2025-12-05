@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"Version":1,"Hash":"Bl/SSLpULnGAZlJ3i5yxavqF7QeO1N08uP+MopXXS/I=","Source":"ShorterLinks.Server_","BasePath":"_content/ShorterLinks.Server_","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+=======
+{"Version":1,"Hash":"P6RSJb7GH5m0KV7wljXwGx7h3btS4zLFIn/w7n8+tNk=","Source":"ShorterLinks.Server_","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+>>>>>>> 91981b3af65b691e761491e617536e50b559050a

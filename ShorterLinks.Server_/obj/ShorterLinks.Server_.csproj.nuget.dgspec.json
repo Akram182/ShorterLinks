@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj": {}
   },
   "projects": {
@@ -18,6 +19,25 @@
         ],
         "configFilePaths": [
           "C:\\Users\\YodgarovInc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj": {}
+  },
+  "projects": {
+    "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj",
+        "projectName": "ShorterLinks.Server_",
+        "projectPath": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server_\\ShorterLinks.Server_.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\system\\Desktop\\~P22~\\ShorterLinks\\ShorterLinks.Server_\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 91981b3af65b691e761491e617536e50b559050a
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +64,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
+<<<<<<< HEAD
         "SdkAnalysisLevel": "9.0.300"
+=======
+        "SdkAnalysisLevel": "10.0.100"
+>>>>>>> 91981b3af65b691e761491e617536e50b559050a
       },
       "frameworks": {
         "net8.0": {
@@ -114,7 +138,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 91981b3af65b691e761491e617536e50b559050a
         }
       }
     }

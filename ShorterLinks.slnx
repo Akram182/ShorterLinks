@@ -3,5 +3,5 @@
     <Build />
     <Deploy />
   </Project>
-  <Project Path="ShorterLinks.Server/ShorterLinks.Server.csproj" />
+  <Project Path="ShorterLinks.Server/ShorterLinks.Server.csproj" Id="8884225a-4189-43d0-9030-dcde69b3c7b4" />
 </Solution>

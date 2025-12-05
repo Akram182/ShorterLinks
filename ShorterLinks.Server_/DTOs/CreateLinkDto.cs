@@ -2,6 +2,6 @@
 {
     public class CreateLinkDto
     {
-        public string OriginalUrl { get; set; }
+        public string? OriginalUrl { get; set; }
     }
 }

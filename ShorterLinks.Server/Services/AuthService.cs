@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
 using ShorterLinks.Server.DTOs;
@@ -29,6 +30,8 @@ namespace ShorterLinks.Server.Services
             _logger = logger;
         }
 
+
+        
         public async Task<AuthResultDto> Login(LoginDto loginDto)
         {
             User? user = null;

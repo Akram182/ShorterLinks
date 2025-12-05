@@ -15,7 +15,7 @@ namespace ShorterLinks.Server.Controllers
         }
 
         [HttpGet("{shortCode}")]
-        public async Task<IActionResult> Redirect(string shortCode)
+        public async Task<IActionResult> RedirectToUrl(string shortCode)
         {
             var originalUrl = await _linkService.GetOriginalUrlAsync(shortCode);
 
@@ -23,10 +23,14 @@ namespace ShorterLinks.Server.Controllers
             Console.WriteLine(originalUrl);
 
             await _linkService.IncrementClickCountAsync(shortCode);
+<<<<<<< HEAD
             
             return RedirectPermanent(originalUrl);
             //return await Redirect(originalUrl);
             //return Ok(originalUrl);
+=======
+            return Ok(new { url = originalUrl });
+>>>>>>> 91981b3af65b691e761491e617536e50b559050a
         }
     }
 }

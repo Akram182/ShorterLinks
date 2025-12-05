@@ -6,7 +6,7 @@ using ShorterLinks.Server.Services;
 namespace ShorterLinks.Server.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("m/")]
     public class RedirectController : ControllerBase
     {
         private readonly ILinkService _linkService;
@@ -14,14 +14,14 @@ namespace ShorterLinks.Server.Controllers
             _linkService = linkService;
         }
 
-        [HttpGet]
-        public async Task<IActionResult> Redirect(string shortCode)
+        [HttpGet("{shortCode}")]
+        public async Task<IActionResult> RedirectToUrl(string shortCode)
         {
             var originalUrl = await _linkService.GetOriginalUrlAsync(shortCode);
             if(string.IsNullOrEmpty(originalUrl)) return NotFound();
 
             await _linkService.IncrementClickCountAsync(shortCode);
-            return await Redirect(originalUrl);
+            return Ok(new { url = originalUrl });
         }
     }
 }

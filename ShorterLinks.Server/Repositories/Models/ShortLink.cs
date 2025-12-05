@@ -12,7 +12,7 @@
         public int UserId { get; set; }
         public User User { get; set; }
 
-        public string ShortUrl => $"https://drop.com/{ShortCode}";
+        public string ShortUrl => $"http://localhost:5186/m/{ShortCode}";
 
     }
 }
