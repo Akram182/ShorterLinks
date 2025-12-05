@@ -10,7 +10,7 @@ namespace ShorterLinks.Server.Controllers
     [ApiController]
     [Route("api/[controller]")]
     [Authorize]
-    
+
     public class LinksController : ControllerBase
     {
         private readonly ILinkService _linkService;
@@ -19,7 +19,7 @@ namespace ShorterLinks.Server.Controllers
             _linkService = linkService;
         }
 
-        [HttpGet]
+        [HttpGet()]
         public async Task<IActionResult> GetUserLinks()
         {
             var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier).Value);

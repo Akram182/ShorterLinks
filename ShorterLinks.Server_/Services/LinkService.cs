@@ -32,7 +32,7 @@ namespace ShorterLinks.Server.Services
                 UserId = userId,
             };
 
-            await _context.ShortLinks.AddAsync(shortLink);
+            await _context.ShortLinks.AddAsync(shortLink);  
 
             await _context.SaveChangesAsync();
             return new ShortLinkDto

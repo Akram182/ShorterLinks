@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:controllers\\redirectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:services\\linkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:services\\ilinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:controllers\\linkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|c:\\programming\\csharp\\asp.net\\shorterlinks\\shorterlinks.server_\\repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952F0BA7-E161-434E-A213-CFBEA3EB733C}|ShorterLinks.Server_.csproj|solutionrelative:repositories\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +42,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LinkService.cs",
-              "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\LinkService.cs",
-              "RelativeDocumentMoniker": "Services\\LinkService.cs",
-              "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\LinkService.cs",
-              "RelativeToolTip": "Services\\LinkService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T09:25:46.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ILinkService.cs",
-              "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\ILinkService.cs",
-              "RelativeDocumentMoniker": "Services\\ILinkService.cs",
-              "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\ILinkService.cs",
-              "RelativeToolTip": "Services\\ILinkService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T09:25:24.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
-              "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\IAuthService.cs",
-              "RelativeToolTip": "Services\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T09:25:21.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LinksController.cs",
               "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Controllers\\LinksController.cs",
               "RelativeDocumentMoniker": "Controllers\\LinksController.cs",
               "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Controllers\\LinksController.cs",
               "RelativeToolTip": "Controllers\\LinksController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T17:26:08.948Z",
+              "WhenOpened": "2025-11-28T17:29:50.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkService.cs",
+              "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\LinkService.cs",
+              "RelativeDocumentMoniker": "Services\\LinkService.cs",
+              "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\LinkService.cs",
+              "RelativeToolTip": "Services\\LinkService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:29:39.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ILinkService.cs",
+              "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\ILinkService.cs",
+              "RelativeDocumentMoniker": "Services\\ILinkService.cs",
+              "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\ILinkService.cs",
+              "RelativeToolTip": "Services\\ILinkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T17:29:19.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T16:51:31.276Z",
+              "WhenOpened": "2025-11-28T16:44:01.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RedirectController.cs",
-              "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Controllers\\RedirectController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RedirectController.cs",
-              "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Controllers\\RedirectController.cs",
-              "RelativeToolTip": "Controllers\\RedirectController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Repositories\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Repositories\\Models\\User.cs",
+              "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Repositories\\Models\\User.cs",
+              "RelativeToolTip": "Repositories\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T17:52:51.154Z",
+              "WhenOpened": "2025-11-28T16:41:26.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBMAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Programming\\Csharp\\Asp.net\\ShorterLinks\\ShorterLinks.Server_\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAIwIwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T17:02:59.763Z"
+              "WhenOpened": "2025-11-28T16:41:04.499Z",
+              "EditorCaption": ""
             }
           ]
         }
